@@ -1,0 +1,1 @@
+﻿New-PSUBranding -AdminConsoleTitle "Devolutions Automation Engine" -LoginPageTitle "Devolutions Automation Engine" -LoginPageText "Login with your account." -PortalTitle "Devolutions Automation Portal" -LoginPageTheme "System" -LoginPageLayout "Horizontal"
