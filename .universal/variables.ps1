@@ -1,0 +1,1 @@
+﻿New-PSUVariable -Name "MyApiKey" -Vault "Database"
