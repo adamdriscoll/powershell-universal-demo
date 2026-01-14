@@ -1,0 +1,1 @@
+﻿New-PSUApp -Name "User App" -FilePath "dashboards\User App\User App.ps1" -BaseUrl "/apps/user" -Authenticated -AutoDeploy -Description "An app for managing users."
