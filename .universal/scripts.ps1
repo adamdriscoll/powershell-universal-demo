@@ -1,0 +1,1 @@
+﻿New-PSUScript -Name "NewUserAccount.ps1" -Description "Creates a new user account in the system." -Path "NewUserAccount.ps1" -Role @('Administrator', 'Operator') -PortalOutputType "Text"
