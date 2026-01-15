@@ -7,5 +7,6 @@ New-PSUScript -Name "NewUserAccount.ps1" -Description "Creates a new user accoun
 New-PSUScript -Name "Parameters.ps1" -Description "Parameters.ps1" -Path "Parameters.ps1" 
 New-PSUScript -Name "Parent.ps1" -Description "Parent.ps1" -Path "Parent.ps1" 
 New-PSUScript -Name "Pester.Tests.ps1" -Description "Pester.Tests.ps1" -Path "Pester.Tests.ps1" 
+New-PSUScript -Name "ReadHostScript.ps1" -Description "ReadHostScript.ps1" -Path "ReadHostScript.ps1" 
 New-PSUScript -Name "RemoveUserAccount.ps1" -Description "Removes a user account." -Tag @('HR') -Path "RemoveUserAccount.ps1" -Role @('Administrator', 'Operator') 
 New-PSUScript -Name "Run on error.ps1" -Description "Run on error.ps1" -Path "Run on error.ps1"
